@@ -8,4 +8,3 @@ Introducing Myself
 ✔️ I have experience in FULL stack web development .
  
  Gmail: pratushapandey08@gmail.com
-LinkedIn: PratushaPandey
