@@ -2,7 +2,7 @@
 #### B.Tech Student
 ![B.Tech Student](https://pbs.twimg.com/profile_images/1555781818959286273/SOVwqMHm_400x400.jpg)
 
-Curently seeking, for an opportunity with an esteemed technical organisation that will help me in learning about new stuffs to enhance my knowledge. I have a keen interest in participating and leading team projects. Moreover, I can utilize my maximum potential when facing challenging situations.
+Currently seeking, for an opportunity with an esteemed technical organization that will help me in learning about new stuffs to enhance my knowledge. I have a keen interest in participating and leading team projects. Moreover, I can utilize my maximum potential when facing challenging situations.
 
 Skills: C/C++/JAVA / BOOTSTRAP / JS / HTML / CSS
 
